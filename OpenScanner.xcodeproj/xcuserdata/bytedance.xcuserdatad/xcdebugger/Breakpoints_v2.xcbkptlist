@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "863E2CD4-0C75-4C5D-B9F9-0DA272073ABB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58EA946F-DCD3-48BE-93D5-C3C78A9734CA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OpenScanner/VIdeoPlayer/VideoPlayerController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "-playAction:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "58EA946F-DCD3-48BE-93D5-C3C78A9734CA - 1c32e04277240139"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[VideoPlayerController playAction:]"
+                  moduleName = "OpenScanner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bytedance/Downloads/open/OpenScanner/OpenScanner/VIdeoPlayer/VideoPlayerController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "58EA946F-DCD3-48BE-93D5-C3C78A9734CA - 1c32e042772401c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[VideoPlayerController playAction:]"
+                  moduleName = "OpenScanner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bytedance/Downloads/open/OpenScanner/OpenScanner/VIdeoPlayer/VideoPlayerController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E746996B-EB04-43D6-96DF-6DEE68BF6801"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OpenScanner/VIdeoPlayer/APPlayer/APPlayer.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "332"
+            endingLineNumber = "332"
+            landmarkName = "-PlayOrPause:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
